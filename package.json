@@ -1,6 +1,6 @@
 {
 	"name": "@zeyadsalah686/easydb.js",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "A simple Node.js package for working with SQLite databases",
 	"main": "easyDB.js",
 	"scripts": {
