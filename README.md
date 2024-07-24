@@ -8,3 +8,7 @@ To install `easyDB.js`, run the following command:
 
 ```bash
 npm install easyDB.js
+
+## API Documentation
+
+Detailed API documentation for `easyDB.js` can be found [here](./out/index.html).
